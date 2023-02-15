@@ -1,0 +1,7 @@
+@media screen and (prefers-color-scheme: dark) {
+    body {
+      background: rgb(22, 22, 22);
+      color: white;
+        }
+  }
+
