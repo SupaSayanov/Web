@@ -1,13 +1,21 @@
 @media screen and (prefers-color-scheme: dark) {
     body {
       background: rgb(245, 145, 145);
-      color: white;
+      color: rgb(247, 21, 21);
         }
   }
   @media screen {
     body {
-      background: #d7ffcd;
-      color: rgb(255, 213, 213);
+      background: #ffffff;
+      color: rgb(49, 49, 49);
         }
   }
 
+  .wrapper {
+    text-align: center;
+  }
+
+  .buttton {
+    position: absolute;
+    top: 50%;
+  }
